@@ -1,2 +1,1 @@
-# isim-sehir-oyunu
-Python İsim Şehir Oyunu
+# Name-city-game-with-Python-----Python-ile-isim--ehir-oyunu
